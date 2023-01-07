@@ -1,4 +1,3 @@
-                                                                         -PYTHON-EDA-PROJECT
 # ZIG WHEELS – USED CARS Data Analysis using Python
 
 I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Used Cars in Zig Wheels website  using Python - A Data Analysis Project performed in my journey into Data Science.
